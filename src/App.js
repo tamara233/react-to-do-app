@@ -44,7 +44,3 @@ class App extends React.Component{
 
 export default App
 
-//im stacac tvyalnery map em anum u im componentin talis propner im stacac tvyali amen tesakic
-//App-i view-um veradardznum em im stacac map-i ardyunqnery (individial productner vorpes component(tag) , voronq poxancum en propner im componentin)
-//componentum arden voroshum em vonc petqa erevan tvyalnery im componentum
-

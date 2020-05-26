@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todo-item {
+  background-color: lightgray;
+  padding: 50px 50px 50px;
+  border-bottom: 1px solid white;
+  font-size: 20px;
+  font-weight: 200;
+}
+.todo-box{
+  margin: auto;
+  padding: 100px;
+}
+input[type="checkbox" i]{
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+} 
